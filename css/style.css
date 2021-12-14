@@ -35,4 +35,4 @@ body { font-family: 'Noto Sans KR', sans-serif; color: #333; transition: 0.3s al
 .section {position: relative; display: block; width: 100%; text-align: center;}
 .clearfix::after { content: ''; position: relative; display: block; width: 100%; clear: both; } 
 
-.section img {width: 100%;}
+.section img {max-width: 100%;}
